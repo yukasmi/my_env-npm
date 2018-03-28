@@ -13,7 +13,7 @@
  |
  */
 module.exports = {
-    "proxy": "http://gh_my_npm.local.dev",
+    "proxy": "http://gh_my_npm.local.test",
     "open" : "external",
     "files": [
       "./public/**/*.php",

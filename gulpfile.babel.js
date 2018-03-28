@@ -12,7 +12,7 @@ import lodash      from 'lodash';
 /*
  * site-config
  */
-const siteUrl = 'http://gh_my_npm.local.dev/';// 環境にあわせて変更
+const siteUrl = 'http://gh_my_npm.local.test/';// 環境にあわせて変更
 const paths   = {
   dest       : './public',
   srcImages  : './src/_img',
